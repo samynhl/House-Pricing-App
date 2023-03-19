@@ -30,3 +30,8 @@ Deactivate a Virtual Environment
 ```
 deactivate
 ``` 
+
+Run the flask app
+```
+python app.py
+```

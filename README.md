@@ -35,3 +35,5 @@ Run the flask app
 ```
 python app.py
 ```
+
+Procfile specifices some sort of commands that need to be executed the app as soon as it starts
